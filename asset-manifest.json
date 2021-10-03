@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Chibinaut/static/css/main.356cd7be.chunk.css",
-    "main.js": "/Chibinaut/static/js/main.045871d7.chunk.js",
-    "main.js.map": "/Chibinaut/static/js/main.045871d7.chunk.js.map",
+    "main.js": "/Chibinaut/static/js/main.9c74877a.chunk.js",
+    "main.js.map": "/Chibinaut/static/js/main.9c74877a.chunk.js.map",
     "runtime-main.js": "/Chibinaut/static/js/runtime-main.e2bab960.js",
     "runtime-main.js.map": "/Chibinaut/static/js/runtime-main.e2bab960.js.map",
     "static/js/2.7156b3e7.chunk.js": "/Chibinaut/static/js/2.7156b3e7.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.e2bab960.js",
     "static/js/2.7156b3e7.chunk.js",
     "static/css/main.356cd7be.chunk.css",
-    "static/js/main.045871d7.chunk.js"
+    "static/js/main.9c74877a.chunk.js"
   ]
 }
